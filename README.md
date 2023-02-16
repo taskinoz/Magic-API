@@ -1,6 +1,6 @@
 # Magic API
 
-This is a simple API that returns a random Harry Potter spell or the description of a specific spell, based on the user's input. The API is powered by a PHP script that reads from a CSV file containing all the spells used in the Harry Potter series.
+This API gives you Harry Potter spells! You can either get a random one or look up a specific spell. The magic happens with a PHP script that reads from a CSV file.
 
 ## Usage
 
