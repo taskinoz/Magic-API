@@ -1,6 +1,6 @@
 # Magic API
 
-![Updated](https://github.com/taskinoz/Magic-API/actions/workflows/wand-worker.yml/badge.svg)
+![Upload Action](https://github.com/taskinoz/Magic-API/actions/workflows/wand-worker.yml/badge.svg)
 
 This API gives you Harry Potter spells! You can either get a random one or look up a specific spell. The magic happens with a PHP script that reads from a CSV file.
 
